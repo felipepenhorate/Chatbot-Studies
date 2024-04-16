@@ -1,1 +1,6 @@
 password.txt
+Datasets/*
+Outputs/*
+tokens.json
+Hugging Face/wandb/*
+Hugging Face/outputs/*
