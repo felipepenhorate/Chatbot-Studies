@@ -4,3 +4,22 @@ Outputs/*
 tokens.json
 Hugging Face/wandb/*
 Hugging Face/outputs/*
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
